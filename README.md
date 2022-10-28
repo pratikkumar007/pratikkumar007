@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
-        <a href="https://twitter.com/pratikkumar007" target="blank"><img align="center"
+        <a href="https://twitter.com/Avatar_Unknown" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
                 alt="pratikkumar007" height="30" width="40" /></a>
         <a href="https://www.linkedin.com/in/pratik-kumar-16ba26200/" target="blank"><img align="center"

@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pratik Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-keshav" alt="dev-keshav" /></a> </p> -->
+
+
 <h3 align="left">Connect with me:</h3>
     <p align="left">
         <a href="https://twitter.com/Avatar_Unknown" target="blank"><img align="center"
